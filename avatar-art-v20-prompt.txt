@@ -1,0 +1,1 @@
+Built-in image editing. Target: complete 4x8 avatar atlas v19. Reference: original avatar-parts top row. Restore large round highlighted eyes, cheerful open smiling mouth and rosy cheeks in all 32 faces. Keep integrated crown silhouette, connected full-body proportions, outfits, cell placement and transparency.
